@@ -61,3 +61,190 @@
 2021-12-22 12:32:44.0679 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
 2021-12-22 12:32:45.6461 Info AppDomain Shutting down. Logger closing...
 2021-12-22 12:32:45.6653 Info Logger has been shut down.
+2021-12-22 12:54:17.1062 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 12:54:17.3323 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 12:54:17.4410 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 12:54:17.4410 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 12:54:17.4410 Info Message Template Auto Format enabled
+2021-12-22 12:54:17.8540 Info Adding target FileTarget(Name=logfile)
+2021-12-22 12:54:17.9045 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 12:54:22.0275 Info AppDomain Shutting down. Logger closing...
+2021-12-22 12:54:22.0714 Info Logger has been shut down.
+2021-12-22 12:54:41.8261 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 12:54:41.8261 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 12:54:41.8382 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 12:54:41.8382 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 12:54:41.8480 Info Message Template Auto Format enabled
+2021-12-22 12:54:41.9178 Info Adding target FileTarget(Name=logfile)
+2021-12-22 12:54:41.9598 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 12:54:43.8777 Info AppDomain Shutting down. Logger closing...
+2021-12-22 12:54:43.8968 Info Logger has been shut down.
+2021-12-22 14:47:45.7246 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 14:47:45.7580 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 14:47:45.8431 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 14:47:45.8504 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 14:47:45.8504 Info Message Template Auto Format enabled
+2021-12-22 14:47:45.9689 Info Adding target FileTarget(Name=logfile)
+2021-12-22 14:47:46.0297 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 14:47:50.5460 Info AppDomain Shutting down. Logger closing...
+2021-12-22 14:47:50.5833 Info Logger has been shut down.
+2021-12-22 14:48:29.2874 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 14:48:29.3076 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 14:48:29.3210 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 14:48:29.3210 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 14:48:29.3210 Info Message Template Auto Format enabled
+2021-12-22 14:48:29.4010 Info Adding target FileTarget(Name=logfile)
+2021-12-22 14:48:29.4460 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 14:48:32.0877 Info AppDomain Shutting down. Logger closing...
+2021-12-22 14:48:32.1315 Info Logger has been shut down.
+2021-12-22 17:57:01.3349 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 17:57:01.4381 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 17:57:01.6474 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 17:57:01.6474 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 17:57:01.6474 Info Message Template Auto Format enabled
+2021-12-22 17:57:01.8118 Info Adding target FileTarget(Name=logfile)
+2021-12-22 17:57:01.8424 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 17:58:26.9793 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 17:58:26.9793 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 17:58:27.0098 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 17:58:27.0098 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 17:58:27.0098 Info Message Template Auto Format enabled
+2021-12-22 17:58:27.0558 Info Adding target FileTarget(Name=logfile)
+2021-12-22 17:58:27.0820 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 18:01:34.7725 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 18:01:34.7725 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 18:01:34.7725 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 18:01:34.7859 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 18:01:34.8243 Info Message Template Auto Format enabled
+2021-12-22 18:01:34.8781 Info Adding target FileTarget(Name=logfile)
+2021-12-22 18:01:34.9045 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 18:02:22.2419 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 18:02:22.2419 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 18:02:22.2419 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 18:02:22.2547 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 18:02:22.2547 Info Message Template Auto Format enabled
+2021-12-22 18:02:22.2956 Info Adding target FileTarget(Name=logfile)
+2021-12-22 18:02:22.3206 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 19:26:15.5396 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:26:15.5582 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:26:15.5899 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 19:26:15.5899 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 19:26:15.5978 Info Message Template Auto Format enabled
+2021-12-22 19:26:15.6379 Info Adding target FileTarget(Name=logfile)
+2021-12-22 19:26:15.6649 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 19:31:26.2340 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:31:26.2418 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:31:26.2527 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 19:31:26.2527 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 19:31:26.2527 Info Message Template Auto Format enabled
+2021-12-22 19:31:26.3596 Info Adding target FileTarget(Name=logfile)
+2021-12-22 19:31:26.4108 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 19:32:51.7758 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:32:51.7758 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:32:51.7912 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 19:32:51.7912 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 19:32:51.7999 Info Message Template Auto Format enabled
+2021-12-22 19:32:51.8466 Info Adding target FileTarget(Name=logfile)
+2021-12-22 19:32:51.8794 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 19:32:53.4856 Info AppDomain Shutting down. Logger closing...
+2021-12-22 19:32:53.5463 Info Logger has been shut down.
+2021-12-22 19:33:23.3059 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:33:23.3059 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:33:23.3246 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 19:33:23.3246 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 19:33:23.3332 Info Message Template Auto Format enabled
+2021-12-22 19:33:23.3951 Info Adding target FileTarget(Name=logfile)
+2021-12-22 19:33:23.4514 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 19:33:25.3435 Info AppDomain Shutting down. Logger closing...
+2021-12-22 19:33:25.3691 Info Logger has been shut down.
+2021-12-22 19:34:28.1870 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:34:28.1933 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:34:28.1933 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 19:34:28.2107 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 19:34:28.2107 Info Message Template Auto Format enabled
+2021-12-22 19:34:28.2711 Info Adding target FileTarget(Name=logfile)
+2021-12-22 19:34:28.3068 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-22 19:43:19.9543 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:43:19.9644 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-22 19:43:19.9758 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-22 19:43:19.9758 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-22 19:43:19.9758 Info Message Template Auto Format enabled
+2021-12-22 19:43:20.0433 Info Adding target FileTarget(Name=logfile)
+2021-12-22 19:43:20.0855 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 18:09:47.8287 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:09:48.0160 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:09:48.4195 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 18:09:48.4301 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 18:09:48.4405 Info Message Template Auto Format enabled
+2021-12-23 18:09:48.6564 Info Adding target FileTarget(Name=logfile)
+2021-12-23 18:09:48.7526 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 18:24:11.8482 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:24:11.9042 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:24:11.9475 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 18:24:11.9585 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 18:24:11.9778 Info Message Template Auto Format enabled
+2021-12-23 18:24:12.0393 Info Adding target FileTarget(Name=logfile)
+2021-12-23 18:24:12.0674 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 18:26:20.3681 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:26:20.3681 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:26:20.4287 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 18:26:20.4287 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 18:26:20.4287 Info Message Template Auto Format enabled
+2021-12-23 18:26:20.5072 Info Adding target FileTarget(Name=logfile)
+2021-12-23 18:26:20.5688 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 18:31:11.9439 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:31:11.9439 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:31:12.0057 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 18:31:12.0057 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 18:31:12.0241 Info Message Template Auto Format enabled
+2021-12-23 18:31:12.1222 Info Adding target FileTarget(Name=logfile)
+2021-12-23 18:31:12.1612 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 18:32:20.3439 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:32:20.3494 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:32:20.3952 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 18:32:20.3952 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 18:32:20.3952 Info Message Template Auto Format enabled
+2021-12-23 18:32:20.4488 Info Adding target FileTarget(Name=logfile)
+2021-12-23 18:32:20.4765 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 18:37:05.6527 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:37:05.6527 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:37:05.6664 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 18:37:05.7281 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 18:37:05.7281 Info Message Template Auto Format enabled
+2021-12-23 18:37:05.7854 Info Adding target FileTarget(Name=logfile)
+2021-12-23 18:37:05.8592 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 18:38:21.7948 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:38:21.7999 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:38:21.7999 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 18:38:21.7999 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 18:38:21.7999 Info Message Template Auto Format enabled
+2021-12-23 18:38:21.8532 Info Adding target FileTarget(Name=logfile)
+2021-12-23 18:38:21.8859 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 18:56:32.5533 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:56:32.5533 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 18:56:32.5999 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 18:56:32.5999 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 18:56:32.5999 Info Message Template Auto Format enabled
+2021-12-23 18:56:32.6731 Info Adding target FileTarget(Name=logfile)
+2021-12-23 18:56:32.7162 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 19:01:19.2602 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 19:01:19.2739 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 19:01:19.2876 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 19:01:19.3414 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 19:01:19.3414 Info Message Template Auto Format enabled
+2021-12-23 19:01:19.4428 Info Adding target FileTarget(Name=logfile)
+2021-12-23 19:01:19.5159 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 19:02:34.8057 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 19:02:34.8057 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 19:02:34.8226 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 19:02:34.8226 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 19:02:34.8226 Info Message Template Auto Format enabled
+2021-12-23 19:02:34.8847 Info Adding target FileTarget(Name=logfile)
+2021-12-23 19:02:34.9224 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config
+2021-12-23 19:12:20.8661 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 19:12:20.8661 Info Loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2021-12-23 19:12:20.9204 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 19:12:20.9204 Info Auto loading assembly file: C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 19:12:20.9290 Info Message Template Auto Format enabled
+2021-12-23 19:12:21.0074 Info Adding target FileTarget(Name=logfile)
+2021-12-23 19:12:21.0402 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CDL\OneDrive\Desktop\Device Monitoring Solution\WebApi/LogConfiguration.config

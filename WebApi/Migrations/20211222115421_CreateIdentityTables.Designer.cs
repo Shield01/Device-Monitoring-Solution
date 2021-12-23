@@ -3,14 +3,16 @@ using System;
 using Infrastructure.DatabaseContext;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace WebApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20211222115421_CreateIdentityTables")]
+    partial class CreateIdentityTables
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -149,57 +151,6 @@ namespace WebApi.Migrations
                         .HasName("RoleNameIndex");
 
                     b.ToTable("AspNetRoles");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = "a2c54451-2dfe-4d0b-9d06-a960b34cce87",
-                            ConcurrencyStamp = "487c4d2e-ce91-422f-9309-209332c59dc0",
-                            Name = "Operations",
-                            NormalizedName = "OPERATIONS"
-                        },
-                        new
-                        {
-                            Id = "1d68d457-682b-4583-bfbb-617252daee12",
-                            ConcurrencyStamp = "e0bc8f0c-796b-4ea3-97bd-ec6852a4e9eb",
-                            Name = "Store Manager",
-                            NormalizedName = "STORE MANAGER"
-                        },
-                        new
-                        {
-                            Id = "5bb070e1-5659-41c1-9156-6c2172e4a4b3",
-                            ConcurrencyStamp = "c34993c9-b13e-4385-b210-8af23dfce9d4",
-                            Name = "Procurement Agent",
-                            NormalizedName = "PROCUREMENT AGENT"
-                        },
-                        new
-                        {
-                            Id = "32e71947-c907-4ca7-b902-f96008d2ec6f",
-                            ConcurrencyStamp = "360d2f2d-ac32-43f5-8620-910ba3ecf340",
-                            Name = "Sales Agent",
-                            NormalizedName = "SALES AGENT"
-                        },
-                        new
-                        {
-                            Id = "4bb38598-bb22-4354-af79-127c4fdded9e",
-                            ConcurrencyStamp = "996f37ca-7abf-4900-9650-6a01ff3cf9a4",
-                            Name = "Receptionist",
-                            NormalizedName = "RECEPTIONIST"
-                        },
-                        new
-                        {
-                            Id = "f59ab85d-6780-48d1-9977-920ee4ad98a7",
-                            ConcurrencyStamp = "cfae42ea-8841-45c4-82ba-f4216b56646b",
-                            Name = "Repair And Maintenance",
-                            NormalizedName = "REPAIR AND MAINTENANCE"
-                        },
-                        new
-                        {
-                            Id = "19e05e54-b656-4ffd-9299-963ad302ea7f",
-                            ConcurrencyStamp = "66cc4a2d-e918-48b7-aa5d-1de3037d3faf",
-                            Name = "Super Admin",
-                            NormalizedName = "SUPER ADMIN"
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

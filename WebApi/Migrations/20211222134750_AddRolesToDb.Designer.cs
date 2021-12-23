@@ -3,14 +3,16 @@ using System;
 using Infrastructure.DatabaseContext;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace WebApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20211222134750_AddRolesToDb")]
+    partial class AddRolesToDb
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -153,52 +155,45 @@ namespace WebApi.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "a2c54451-2dfe-4d0b-9d06-a960b34cce87",
-                            ConcurrencyStamp = "487c4d2e-ce91-422f-9309-209332c59dc0",
+                            Id = "74905de9-46c4-4c67-aa34-a91eab577dad",
+                            ConcurrencyStamp = "8a1618e6-6d0a-48ca-b6da-4d20c9629c59",
                             Name = "Operations",
                             NormalizedName = "OPERATIONS"
                         },
                         new
                         {
-                            Id = "1d68d457-682b-4583-bfbb-617252daee12",
-                            ConcurrencyStamp = "e0bc8f0c-796b-4ea3-97bd-ec6852a4e9eb",
+                            Id = "9d055450-ac1c-4e98-b460-8a6eaed9e0ff",
+                            ConcurrencyStamp = "5f6c9d3e-612f-417b-b7b8-612e64c73f74",
                             Name = "Store Manager",
                             NormalizedName = "STORE MANAGER"
                         },
                         new
                         {
-                            Id = "5bb070e1-5659-41c1-9156-6c2172e4a4b3",
-                            ConcurrencyStamp = "c34993c9-b13e-4385-b210-8af23dfce9d4",
+                            Id = "6883de54-5511-4291-820e-f282c7e1b80b",
+                            ConcurrencyStamp = "b33ca1da-020b-4544-897b-3f22092a83f4",
                             Name = "Procurement Agent",
                             NormalizedName = "PROCUREMENT AGENT"
                         },
                         new
                         {
-                            Id = "32e71947-c907-4ca7-b902-f96008d2ec6f",
-                            ConcurrencyStamp = "360d2f2d-ac32-43f5-8620-910ba3ecf340",
+                            Id = "4f52e468-7786-4312-ac07-bf5ae22fa4ab",
+                            ConcurrencyStamp = "8e207d45-e14a-4e1a-9e0b-d2b3d637e59a",
                             Name = "Sales Agent",
                             NormalizedName = "SALES AGENT"
                         },
                         new
                         {
-                            Id = "4bb38598-bb22-4354-af79-127c4fdded9e",
-                            ConcurrencyStamp = "996f37ca-7abf-4900-9650-6a01ff3cf9a4",
+                            Id = "c07cbdf8-b0a6-4e4e-92b1-6465ef6ff915",
+                            ConcurrencyStamp = "247ea326-1fc6-413b-86b8-d336f19ac3aa",
                             Name = "Receptionist",
                             NormalizedName = "RECEPTIONIST"
                         },
                         new
                         {
-                            Id = "f59ab85d-6780-48d1-9977-920ee4ad98a7",
-                            ConcurrencyStamp = "cfae42ea-8841-45c4-82ba-f4216b56646b",
+                            Id = "1ba722cb-dbbf-4a13-9730-ce8bf9c94d2d",
+                            ConcurrencyStamp = "2e6c3d31-4de2-4d01-aa1f-c62c2ead8efa",
                             Name = "Repair And Maintenance",
                             NormalizedName = "REPAIR AND MAINTENANCE"
-                        },
-                        new
-                        {
-                            Id = "19e05e54-b656-4ffd-9299-963ad302ea7f",
-                            ConcurrencyStamp = "66cc4a2d-e918-48b7-aa5d-1de3037d3faf",
-                            Name = "Super Admin",
-                            NormalizedName = "SUPER ADMIN"
                         });
                 });
 
